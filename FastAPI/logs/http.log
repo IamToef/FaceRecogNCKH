@@ -4,3 +4,7 @@
 2024-08-30 18:37:25,721 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /openapi.json 1.1" 200 0.00s
 2024-08-30 18:37:42,288 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /docs 1.1" 200 0.00s
 2024-08-30 18:37:42,359 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /openapi.json 1.1" 200 0.00s
+2024-09-10 20:46:51,418 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-2\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /docs 1.1" 200 0.00s
+2024-09-10 20:46:51,607 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-2\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /openapi.json 1.1" 200 0.01s
+2024-09-10 20:51:40,989 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-2\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /docs 1.1" 200 0.00s
+2024-09-10 20:51:41,163 - c:\daihoc\nghiencuukhoahoc\Nhóm Computer Vision\FaceRecogNCKH-2\FastAPI\middleware\http.py - INFO - 26.105.167.49 - "GET /openapi.json 1.1" 200 0.01s
