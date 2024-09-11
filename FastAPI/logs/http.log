@@ -14,3 +14,8 @@
 2024-09-11 20:06:04,747 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /openapi.json 1.1" 200 0.01s
 2024-09-11 20:07:57,790 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /docs 1.1" 200 0.00s
 2024-09-11 20:07:58,015 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /openapi.json 1.1" 200 0.01s
+2024-09-11 20:09:33,914 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /docs 1.1" 200 0.00s
+2024-09-11 20:09:34,128 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /openapi.json 1.1" 200 0.01s
+2024-09-11 20:49:45,233 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /docs 1.1" 200 0.00s
+2024-09-11 20:49:45,461 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /openapi.json 1.1" 200 0.01s
+2024-09-11 20:51:21,246 - c:\A\FaceRecogNCKH-1\FastAPI\middleware\http.py - INFO - 192.168.100.202 - "GET /face_recognition/camera 1.1" 200 4.55s
