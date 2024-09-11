@@ -1,12 +1,13 @@
 import torch
 import torch.nn as nn
 
-from torchvision.models import resnet34
+import torchvision.models as models
+from torchvision.models import ResNet34_Weights
 
 class FRModel(nn.Module):
     def __init__(self, n_classes):
         super(FRModel, self).__init__()
-        resnet = resnet34(pretrained=True)
+        resnet = models.resnet34(weights=ResNet34_Weights.DEFAULT)
         self.backbone = nn.Sequential(*list(resnet.children())[:-2])
         for param in self.backbone.parameters():
             param.requires_grad = False

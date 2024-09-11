@@ -27,7 +27,7 @@ class Predictor:
     def load_model(self):
         try:
             model = FRModel(FRDataConfig.N_CLASSES)
-            model.load_state_dict(torch.load(self.model_weight, map_location=self.device))
+            model.load_state_dict(torch.load(self.model_weight, map_location=self.device, weights_only=True))
             model.to(self.device)
             model.eval()
             self.loaded_model = model
